@@ -1,6 +1,6 @@
 # android-reference-material
 
-#Basics :-
+# Basics :-
 1. Activity Lifecycle (doc -> https://developer.android.com/guide/components/activities/activity-lifecycle , ex -> https://www.geeksforgeeks.org/activity-lifecycle-in-android-with-demo-app/)
 
 2. Fragment Lifecycle (doc -> https://medium.com/androiddevelopers/the-android-lifecycle-cheat-sheet-part-iii-fragments-afc87d4f37fd )
@@ -36,7 +36,7 @@ launch modes (https://medium.com/mindorks/android-launch-mode-787d28952959 )
 
 17. svg vs png vs webp (https://proandroiddev.com/webp-a-preferred-image-format-for-android-apps-251a0ab1aa70)
 
-#Intermediate :-
+# Intermediate :-
 
 1. Recycler View with multiple Views ( https://blog.mindorks.com/recyclerview-multiple-view-types-in-android )
 
@@ -87,7 +87,7 @@ dynamic delivery module (https://medium.com/swlh/dynamic-feature-module-integrat
 
 6. Firebase Remote Config ( https://proandroiddev.com/firebase-remote-config-on-android-55a27f578505 )
 
-#Advanced :-
+# Advanced :-
 1. Dependency Injection ( https://medium.com/androiddevelopers/dependency-injection-on-android-with-hilt-67b6031e62d )
 
 2. Work manager ( https://medium.com/androiddevelopers/introducing-workmanager-2083bcfc4712 , https://blog.mindorks.com/integrating-work-manager-in-android )
