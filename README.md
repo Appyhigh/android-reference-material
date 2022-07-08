@@ -73,7 +73,7 @@ launch modes (https://medium.com/mindorks/android-launch-mode-787d28952959 )
 17. View models working internally (https://blog.mindorks.com/android-viewmodels-under-the-hood)
 dynamic delivery module (https://medium.com/swlh/dynamic-feature-module-integration-android-a315194a4801)
 
-#Firebase :-
+## Firebase :-
 
 1. Firebase Authentication ( https://medium.com/firebase-tips-tricks/how-to-create-a-clean-firebase-authentication-using-mvvm-37f9b8eb7336 )
 
